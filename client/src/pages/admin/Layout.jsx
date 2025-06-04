@@ -19,7 +19,7 @@ const Layout = () => {
                     alt=""
                     className='w-32 sm:w-40 cursor-pointer'
                     onClick={() => navigate('/')}
-                    src={assets.logo} 
+                    src={assets.logo1} 
                 />
                 <button
                     onClick={logout}
